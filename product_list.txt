@@ -1,0 +1,3 @@
+001 ChocolateCake 9.25
+002 Whisky 45.00
+003 T-shirt 19.95
