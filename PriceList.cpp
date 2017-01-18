@@ -1,3 +1,17 @@
+/*
+ * PriceList.cpp
+ *
+ * Copyright (C) 2017 Vivek Bhadra
+ * Copyright (C) 2017 Embed Logic Limited
+ *
+ * The source code in this file can be freely used, adapted,
+ * and redistributed in source or binary form, so long as an
+ * acknowledgment appears in derived source files.  The citation
+ * should list that the code comes from the public github of Vivek Bhadra 
+ * No warranty is attached. We cannot take responsibility for 
+ * errors or fitness for use.
+ *
+ */
 #include "PriceList.h"
 
 class Invalid_DataFile_Exception : public exception{
